@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @martinjelonek
+- 👀 I’m interested in C++ / C# programming
+- 📫 https://www.linkedin.com/in/martin-jelonek/
